@@ -1,5 +1,6 @@
 import curses 
 import random
+import sys 
 
 s=curses.initscr()
 curses.curs_set(0)
